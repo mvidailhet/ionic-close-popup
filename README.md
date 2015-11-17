@@ -26,7 +26,7 @@ Register your newly created popup to the `closePopupService` service :
       title: 'Alert popup',
       template: 'Tap outside it to close it'
     });
-    IonicPopupHider.register(alertPopup);
+    IonicClosePopupService.register(alertPopup);
 ```
 
 That's it! Your popup will close if you tap outside of it.
