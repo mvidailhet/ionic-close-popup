@@ -1,6 +1,8 @@
 # ionic-close-popup
 Close Ionic popup when tapping outside it's bounds
 
+Here is a little Codepen to show a live example: http://codepen.io/mvidailhet/pen/JYwYEE
+
 ![alt](http://i.imgur.com/mBTNIMs.gif)
 
 ## Install
