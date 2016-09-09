@@ -5,16 +5,16 @@
   "main": "ionic-close-popup.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marc1404/ionic-close-popup.git"
+    "url": "git+https://github.com/mvidailhet/ionic-close-popup.git"
   },
   "keywords": [
     "ionic",
     "popup"
   ],
-  "author": "mvidailhet",
+  "author": "mvidailhet <mvidailhet@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marc1404/ionic-close-popup/issues"
+    "url": "https://github.com/mvidailhet/ionic-close-popup/issues"
   },
-  "homepage": "https://github.com/marc1404/ionic-close-popup#readme"
+  "homepage": "https://github.com/mvidailhet/ionic-close-popup#readme"
 }
