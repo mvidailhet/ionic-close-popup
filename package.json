@@ -1,0 +1,20 @@
+{
+  "name": "ionic-close-popup",
+  "version": "0.0.1",
+  "description": "Close Ionic popup when tapping outside it's bounds",
+  "main": "ionic-close-popup.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvidailhet/ionic-close-popup.git"
+  },
+  "keywords": [
+    "ionic",
+    "popup"
+  ],
+  "author": "mvidailhet <mvidailhet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvidailhet/ionic-close-popup/issues"
+  },
+  "homepage": "https://github.com/mvidailhet/ionic-close-popup#readme"
+}
